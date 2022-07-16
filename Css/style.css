@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    margin:0px;
+    padding:0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container{
+    width:85%;
+    margin:auto;
+}
+
+.header{
+    height:100px;
+    color:white;
+    background-color: #2C3E50;
+    padding: 30px 0px;
+}
+
+.header .logo{
+    font-size:20px;
+    float:left;
+}
+
+.header .menu{
+    float:right;
+}
+
+
+.header .menu ul li{
+    display:inline-block;
+    padding:0px 10px;
+    font-size:18px;
+}
+
+.main img{
+    width:300px;
+}
+
+.main {
+    text-align:center;
+    background-color:#1ABC9C;
+    color:white;
+    font-size: 30px;
+    padding-bottom: 80px;
+}
+
+.main h4{
+    font-size:20px;
+    font-style: normal;
+}
+
+.middle{
+    margin-top: 60px;
+    text-align: center;
+    font-size: 30px;
+    color:#2C3E50;
+    padding-bottom: 40px;
+}
+
+.middle i{
+    color:#2C3E50;
+}
+
+.sekil .umg{
+    width:33.3%;
+    float:left;
+    
+}
+
+.sekil{
+    padding-bottom:650px;
+}
+
+.sekil .umg img{
+    width:100%;
+    padding:10px;
+    border-radius: 8%;
+}
+
+.end {
+    padding-top: 80px;
+    color:white;
+    background-color: #1ABC9C;
+    text-align: center;
+    font-size:30px;
+    padding-bottom: 50px;
+}
+
+.end pre{
+    text-align: left;
+    font-size:20px;
+    padding-left:100px;
+    padding-top: 20px;
+}
+
+.end button{
+    color:white;
+    background-color: #1ABC9C;
+    border-color: white;
+    font-size: 40px;
+    border-radius: 10%;
+}
+
+.end1{
+    color:#2C3E50;
+    text-align: center;
+    padding:50px;
+    font-size:30px;
+}
